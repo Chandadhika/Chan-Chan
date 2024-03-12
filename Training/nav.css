@@ -1,0 +1,63 @@
+body {
+    font-family: pyidaungsu;
+}
+
+header {
+    margin: 25px;
+    background-color: #f7fb08;
+}
+.container {a
+    width: 1280px;
+    margin: 0 auto;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    align-items: center;
+}
+.hero {
+    background-image: url(../Training/images/12.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-color: aquamarine;
+    padding: 50px 0;
+    text-align: center;
+    color: #f7fb08;
+    }
+    .hero p {
+        width: 50%;
+        margin: 0 auto;
+        font-size: 1.5rem;
+        text-align: justify;
+    
+    }
+    .btn {
+    pad: 8px 24px;
+    background-color: #b9bc01;
+    color: rgb(8, 0, 0);
+    border: none;
+    }
+nav {
+    text-align: right;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.navitem {
+    color: rgb(161, 5, 5);
+    text-decoration: none;
+    padding: 4px 30px;
+    text-transform: uppercase;
+}
+.logo h1 {
+color: blue;
+font-size: 2rem;
+font-family: times new roman;
+text-shadow: 2px 1px 2px  red;
+}
+.label {
+    width: 50px;
+    color: rgb(226, 11, 11);
+}
+.choose {
+    grid-template-columns: 1fr;
+    color: #f7fb08;
+}

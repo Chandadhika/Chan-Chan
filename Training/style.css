@@ -1,0 +1,21 @@
+.one p {
+    margin: 1.5px;
+}
+.one {
+    border: 20px solid red;
+    background-color: aqua;
+    margin: 10px;
+    padding: 15px;
+    line-height: 2.5rem;
+    letter-spacing: 1.5px;
+    text-align: justify;
+}
+.Two {
+    border: 5px solid green;
+    box-shadow: 10px 3px 30px 0px;
+}
+.three {
+    border: 5px solid black;
+    box-shadow: inset 20px 3px 25px 0 red;
+    text
+}

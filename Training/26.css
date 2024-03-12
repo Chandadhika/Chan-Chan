@@ -1,0 +1,32 @@
+.a {
+    background-color: aqua;
+    text-align: center;
+    padding: 150px;
+    clip-path: var(150px);
+    background-image: url(images/13.jpeg);
+   /* background-repeat:repeat-x;
+    background-repeat: repeat-y;*/
+    background-size:cover;
+}
+h2 {
+    text-transform: uppercase;
+}
+table {
+    border: 2px solid black;
+}
+.slash1-slash2 {
+    border: 2px solid red;
+    border: 3px solid blue;
+    width: 150px;
+   
+    margin: 150px;
+    transform: rotate(-45deg);
+}
+.slash2 {
+    border: 3px solid blue;
+    width: 150px;
+   
+    margin: 150px;
+    transform: rotate(-45deg);
+}
+}
